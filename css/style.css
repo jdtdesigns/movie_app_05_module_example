@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+.box {
+  min-height: 65%;
+}
+
+article.alert {
+  background: #fbffc7 !important;
+}
+
+article.watched {
+  background: #dac6bf !important;
+}
